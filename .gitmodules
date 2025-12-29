@@ -1,0 +1,3 @@
+[submodule "thirdparty/vllm-omni"]
+	path = thirdparty/vllm-omni
+	url = https://github.com/vllm-project/vllm-omni.git

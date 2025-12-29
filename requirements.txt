@@ -1,0 +1,8 @@
+vllm==0.12.0
+rembg[cpu]
+xformers==0.0.33.post1
+diffusers==0.30.0
+trimesh==4.4.7
+pyrender
+timm
+black
