@@ -9,7 +9,7 @@
   <a href="https://huggingface.co/IntimeAI/Miro" target="_blank"><img src="https://img.shields.io/badge/🤗%20huggingface-model-orange.svg" height="22px"></a>
   <a href="https://github.com/IntimeAI/Miro" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" height="22px"></a>
   <img src="https://img.shields.io/badge/License-Apache%202.0-green" height="22px">
-  <a href="https://discord.gg/Yf3YydCu" target="_blank"><img src= https://img.shields.io/badge/Discord-white.svg?logo=discord height=22px></a>
+  <a href="https://discord.gg/PXncEp6a" target="_blank"><img src= https://img.shields.io/badge/Discord-white.svg?logo=discord height=22px></a>
 </div>
 
 ## 📖 Overview
